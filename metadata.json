@@ -1,0 +1,6 @@
+{
+  "name": "EólicaMaster: Montaje de Parques Eólicos (CIFP Aguas Nuevas)",
+  "description": "Web App educativa y gamificada para el Grado Superior en Energías Renovables y Agua (CIFP Aguas Nuevas). Gamificación técnica de la Unidad 2 y repaso de Unidad 1 basada en el libro Paraninfo (ISBN: 9788428395625).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
